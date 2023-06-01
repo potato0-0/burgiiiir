@@ -1,0 +1,35 @@
+@media only screen and (max-width: 768px) {
+	body .container {
+		width: 90%;
+	}
+.nav_block
+.nav_linkS{
+	    margin-right: 30px;
+}
+        
+}
+
+@media only screen and (max-width: 425px) {
+    .nav_block
+	  .nav_block{
+			display: none;
+		} 
+     .header_wrapper
+     .burger_menu{
+     display: block;
+		 transform: scale(1.5);
+		 }
+
+		 main .main_wrapper h1 {
+			font-size: 42px;
+		 }
+
+		 main .main_inner p {
+			margin: 20px 0;
+	}
+     main .main_wrapper{
+			margin-top: 50px;
+		 }
+		}
+	
+	
